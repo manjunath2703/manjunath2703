@@ -2,6 +2,9 @@
 <h3 align="center">I am a Passionate developer from India aspiring to build scalable applications using Java, React, and Spring Boot.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjunathbm2703&label=Profile%20views&color=0e75b6&style=flat" alt="manjunathbm2703" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF4C60&center=true&vCenter=true&width=600&lines=🔧+DevOps+%26+🛡️+DevSecOps+Specialist;☕+Java+%26+🐍+Python;☁️+Cloud+Infrastructure+%26+Security;💡+Continuous+Learner" alt="Typing SVG" />
+</p>
 
 - 🌱 I’m currently learning **DevOps and building projects with Spring Boot.**
 
