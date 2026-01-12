@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manjunath B M</h1>
+## <h1 align="center">Hi 👋, I'm Manjunath B M</h1>
 <h3 align="center">I am a Passionate developer from India aspiring to build scalable applications using Java, React, and Spring Boot.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjunathbm2703&label=Profile%20views&color=0e75b6&style=flat" alt="manjunathbm2703" /> </p>
